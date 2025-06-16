@@ -1,0 +1,1 @@
+What I have learned from this course is how to use Git and GitHub to manage files and collaborate with others in software development.
